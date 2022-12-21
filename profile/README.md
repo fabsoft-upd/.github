@@ -5,3 +5,9 @@
     <img alt="FabSoft" src="https://www.fabsoft.com/media/ljdbxvkt/fabsoftlogo-white.svg" height="82px" width="252px">
  </picture>
 </a>
+<br />
+# FabSoft Desktop Automation Driver API Overview
+
+The FabSoft Desktop Automation Driver (DAD) API allows plugins to control how documents are delivered. In addition to providing the ability to intelligently route the document, methods are available to prompt the user for details, retrieve data from back-end systems, and update statuses repeatedly. Combining these features provide a user-friendly experience that is capable of simplifying complex tasks with great accuracy.
+
+Product documentation (not including the API) is available at: [FabSoft - Products - User Printing](https://www.fabsoft.com/document-capture/) and [FabSoft Desktop Automation Driver Wiki](http://wiki.fabsoft.com/index.php?title=FabSoft_Universal_Printer_Driver)

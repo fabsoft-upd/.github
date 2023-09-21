@@ -17,3 +17,12 @@ Product documentation (not including the API) is available at: <a href="https://
 <p>
 The FabSoft Desktop Automation Driver (DAD) API documentation is available here: <a href="https://github.com/fabsoft-upd/SamplePlugin/wiki">(DAD) API documentation</a>.
 </p>
+<br />
+<h1>FabSoft Document Companion API Overview</h1>
+<hr />
+<p>
+The FabSoft Document Companion (DC or DocComp) API allows plugins to automate actions and submission methods. In addition to providing the ability to intelligently route the document, methods are available to prompt the user for details and interact with documents. Combining these features provide a user-friendly experience that is capable of simplifying complex tasks.
+</p>
+<p>
+The FabSoft Document Companion API documentation is available here: <a href="https://github.com/fabsoft-upd/DC-SamplePlugin/wiki">(DC) API documentation</a>.
+</p>

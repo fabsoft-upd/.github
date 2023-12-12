@@ -12,10 +12,10 @@
 The FabSoft DeskConnect API allows plugins to control how documents are delivered. In addition to providing the ability to intelligently route the document, methods are available to prompt the user for details, retrieve data from back-end systems, and update statuses repeatedly. Combining these features provide a user-friendly experience that is capable of simplifying complex tasks with great accuracy.
 </p>
 <p>
-Product documentation (not including the API) is available at: <a href="https://www.fabsoft.com/document-capture/">FabSoft - Products - User Printing</a> and <a href="http://wiki.fabsoft.com/index.php?title=FabSoft_Universal_Printer_Driver">FabSoft Desktop Automation Driver Wiki</a>.
+Product documentation (not including the API) is available at: <a href="https://www.fabsoft.com/document-capture/">FabSoft - Products - User Printing</a> and <a href="http://wiki.fabsoft.com/index.php?title=FabSoft_Universal_Printer_Driver">FabSoft DeskConnect Wiki</a>.
 </p>
 <p>
-The FabSoft Desktop Automation Driver (DAD) API documentation is available here: <a href="https://github.com/fabsoft-upd/SamplePlugin/wiki">(DAD) API documentation</a>.
+The FabSoft DeskConnect API documentation is available here: <a href="https://github.com/fabsoft-upd/SamplePlugin/wiki">API documentation</a>.
 </p>
 <br />
 <h1>FabSoft Document Companion API Overview</h1>
